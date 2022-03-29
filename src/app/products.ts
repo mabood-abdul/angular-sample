@@ -28,7 +28,7 @@ export const products = [
     id: 4,
     name: 'Phone SE',
     price: 299,
-    description: ''
+    description: 'A power packed small sized phone'
   }
 ];
 
